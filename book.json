@@ -1,0 +1,26 @@
+[
+    {
+        "id": "101",
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "available": "yes",
+        "pages": 336,
+        "isbn": 9780061120084
+    },
+    {
+        "id": "102",
+        "title": "1984",
+        "author": "George Orwell",
+        "available": "yes",
+        "pages": 267,
+        "isbn": 9780547249643
+    },
+    {
+        "id": "103",
+        "title": "One Hundred Years Of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "available": "no",
+        "pages": 457,
+        "isbn": 9785267006323
+    }
+]
